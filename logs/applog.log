@@ -1,0 +1,385 @@
+[INFO] 18-09-2023 12:56:42 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 12:56:42 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 12:56:46 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 12:56:46 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 12:56:46 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 12:56:46 [main] [LogUtils] - Set text: huutrung on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 12:56:46 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 12:57:27 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 12:57:27 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 12:57:30 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 12:57:30 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 12:57:31 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 12:57:31 [main] [LogUtils] - Set text: huutrung on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 12:57:31 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 12:59:11 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 12:59:11 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 12:59:15 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 12:59:15 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 12:59:15 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 12:59:15 [main] [LogUtils] - Set text: huutrung on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 12:59:15 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 12:59:37 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 12:59:37 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 12:59:41 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 12:59:41 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 12:59:41 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 12:59:41 [main] [LogUtils] - Set text: huutrung on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 12:59:41 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:05:20 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:05:20 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:05:24 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:05:24 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:05:24 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 13:05:25 [main] [LogUtils] - Set text: huutrung on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:05:25 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:08:34 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:08:34 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:08:38 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:08:38 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:08:39 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 13:08:39 [main] [LogUtils] - Set text: huutrung on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:08:39 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:09:07 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:09:07 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:09:11 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:09:11 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:09:12 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 13:09:12 [main] [LogUtils] - Set text: huutrung on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:09:12 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:13:39 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:13:39 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:13:44 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:13:44 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:13:45 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 13:13:46 [main] [LogUtils] - Set text: huutrung on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:13:46 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:14:17 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:14:17 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:14:21 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:14:21 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:14:23 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 13:14:24 [main] [LogUtils] - Set text: huutrung on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:14:24 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:16:08 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:16:08 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:16:10 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:16:10 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:16:11 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 13:16:11 [main] [LogUtils] - Set text: huutrung on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:16:11 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:18:23 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:18:23 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:18:27 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:18:27 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:18:29 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 13:18:29 [main] [LogUtils] - Set text: huutrung on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:18:29 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:25:00 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:25:00 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:25:03 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:25:03 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:25:04 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 13:25:04 [main] [LogUtils] - Set text: huutrung on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:25:04 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:28:03 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:28:03 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:28:07 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:28:07 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:28:08 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 13:28:11 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 13:30:54 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:30:54 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:30:58 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:30:58 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:30:59 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 13:31:03 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[ERROR] 18-09-2023 13:31:03 [main] [LogUtils] - Timeout waiting for the element Visible. By.xpath: user1@example.com
+[INFO] 18-09-2023 13:32:14 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:32:14 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:32:18 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:32:18 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:32:18 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 13:32:24 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[ERROR] 18-09-2023 13:32:24 [main] [LogUtils] - Timeout waiting for the element Visible. By.xpath: user1@example.com
+[INFO] 18-09-2023 13:34:26 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:34:26 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:34:30 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:34:30 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:34:31 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 13:34:36 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 13:34:36 [main] [LogUtils] - Set text: user1@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:34:36 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:35:23 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:35:23 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:35:27 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:35:27 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:35:28 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 13:35:32 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 13:35:32 [main] [LogUtils] - Set text: user1@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:35:32 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:36:24 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:36:24 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:36:28 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:36:28 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:36:31 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 13:36:35 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 13:36:35 [main] [LogUtils] - Set text: user1@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:36:35 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:37:13 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:37:13 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:37:16 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:37:16 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:37:18 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 13:37:22 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 13:37:22 [main] [LogUtils] - Set text: user1@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:37:22 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:37:24 [main] [LogUtils] - Set text: user2@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:37:24 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:37:26 [main] [LogUtils] - Set text: user3@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:37:26 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:37:27 [main] [LogUtils] - Set text: user4@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:37:27 [main] [LogUtils] - Set text: 1233 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:37:28 [main] [LogUtils] - Set text: user5@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:37:28 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:38:44 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:38:44 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:38:48 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:38:48 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:38:49 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 13:38:55 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 13:38:56 [main] [LogUtils] - Set text: user1@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:38:56 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:39:03 [main] [LogUtils] - Set text: user2@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:39:03 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:39:04 [main] [LogUtils] - Set text: user3@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:39:04 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:39:06 [main] [LogUtils] - Set text: user4@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:39:06 [main] [LogUtils] - Set text: 1233 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:39:07 [main] [LogUtils] - Set text: user5@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:39:07 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:43:36 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:43:36 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:43:40 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 13:43:40 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 13:43:42 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 13:43:42 [main] [LogUtils] - Set text: user1@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:43:42 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:43:48 [main] [LogUtils] - Set text: user2@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:43:48 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:43:50 [main] [LogUtils] - Set text: user3@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:43:50 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:43:51 [main] [LogUtils] - Set text: user4@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:43:51 [main] [LogUtils] - Set text: 1233 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 13:43:52 [main] [LogUtils] - Set text: user5@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 13:43:52 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 14:22:31 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 14:22:31 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 14:22:39 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 14:22:39 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 14:22:41 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 14:22:41 [main] [LogUtils] - Set text: huutrung on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 14:22:41 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 14:22:41 [main] [LogUtils] - Click element By.xpath: //input[@id='submit']
+[ERROR] 18-09-2023 14:23:02 [main] [LogUtils] - Timeout waiting for the element Visible. By.xpath: //a[@id='addCatagory']
+[INFO] 18-09-2023 14:23:07 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 14:23:07 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 14:23:11 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 14:23:11 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 14:23:16 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 14:23:16 [main] [LogUtils] - Set text: huutrung on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 14:23:16 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 14:23:16 [main] [LogUtils] - Click element By.xpath: //input[@id='submit']
+[ERROR] 18-09-2023 14:23:36 [main] [LogUtils] - Timeout waiting for the element Visible. By.xpath: //a[@id='addCatagory']
+[INFO] 18-09-2023 14:27:02 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 14:27:02 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 14:27:05 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 14:27:05 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 14:27:10 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 14:27:10 [main] [LogUtils] - Set text: huutrung on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 14:27:10 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 14:27:11 [main] [LogUtils] - Click element By.xpath: //input[@id='submit']
+[INFO] 18-09-2023 14:27:11 [main] [LogUtils] - Click element By.xpath: //a[@id='admin_sp']
+[INFO] 18-09-2023 14:27:11 [main] [LogUtils] - Click element By.xpath: //a[@id='addCatagory']
+[INFO] 18-09-2023 14:27:12 [main] [LogUtils] - Click element By.xpath: //option[@id='2']
+[INFO] 18-09-2023 14:27:12 [main] [LogUtils] - Click element By.xpath: //option[@id='12']
+[INFO] 18-09-2023 14:27:12 [main] [LogUtils] - Click element By.xpath: //input[@id='mota']
+[INFO] 18-09-2023 14:27:12 [main] [LogUtils] - Click element By.xpath: //input[@id='tacgia']
+[INFO] 18-09-2023 14:27:14 [main] [LogUtils] - Set text: sach3 on element By.xpath: //input[@id='tensach']
+[INFO] 18-09-2023 14:27:14 [main] [LogUtils] - Set text: 137000 on element By.xpath: //input[@id='giaban']
+[INFO] 18-09-2023 14:27:14 [main] [LogUtils] - Set text: 100 on element By.xpath: //input[@id='soluong']
+[INFO] 18-09-2023 14:27:16 [main] [LogUtils] - Click element By.xpath: //button[@id='them']
+[INFO] 18-09-2023 14:29:02 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 14:29:02 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 14:29:06 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 14:29:06 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 14:29:11 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 14:29:11 [main] [LogUtils] - Set text: huutrung on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 14:29:11 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 14:29:19 [main] [LogUtils] - Click element By.xpath: //input[@id='submit']
+[INFO] 18-09-2023 14:29:20 [main] [LogUtils] - Click element By.xpath: //a[@id='admin_sp']
+[INFO] 18-09-2023 14:29:20 [main] [LogUtils] - Click element By.xpath: //a[@id='addCatagory']
+[INFO] 18-09-2023 14:29:20 [main] [LogUtils] - Click element By.xpath: //option[@id='2']
+[INFO] 18-09-2023 14:29:20 [main] [LogUtils] - Click element By.xpath: //option[@id='12']
+[INFO] 18-09-2023 14:29:21 [main] [LogUtils] - Set text: Sách hay on element By.xpath: //input[@id='mota']
+[INFO] 18-09-2023 14:29:21 [main] [LogUtils] - Set text: Tờ rung on element By.xpath: //input[@id='tacgia']
+[INFO] 18-09-2023 14:29:23 [main] [LogUtils] - Set text: sach3 on element By.xpath: //input[@id='tensach']
+[INFO] 18-09-2023 14:29:23 [main] [LogUtils] - Set text: 137000 on element By.xpath: //input[@id='giaban']
+[INFO] 18-09-2023 14:29:23 [main] [LogUtils] - Set text: 100 on element By.xpath: //input[@id='soluong']
+[INFO] 18-09-2023 14:29:25 [main] [LogUtils] - Click element By.xpath: //button[@id='them']
+[INFO] 18-09-2023 14:29:25 [main] [LogUtils] - Click element By.xpath: //option[@id='2']
+[INFO] 18-09-2023 14:29:25 [main] [LogUtils] - Click element By.xpath: //option[@id='12']
+[INFO] 18-09-2023 14:29:25 [main] [LogUtils] - Set text: Sách hay on element By.xpath: //input[@id='mota']
+[INFO] 18-09-2023 14:29:25 [main] [LogUtils] - Set text: Tờ rung on element By.xpath: //input[@id='tacgia']
+[INFO] 18-09-2023 14:29:27 [main] [LogUtils] - Set text: sach3 on element By.xpath: //input[@id='tensach']
+[INFO] 18-09-2023 14:29:27 [main] [LogUtils] - Set text: 100000 on element By.xpath: //input[@id='giaban']
+[INFO] 18-09-2023 14:29:27 [main] [LogUtils] - Set text: -1 on element By.xpath: //input[@id='soluong']
+[INFO] 18-09-2023 14:29:29 [main] [LogUtils] - Click element By.xpath: //button[@id='them']
+[INFO] 18-09-2023 14:29:29 [main] [LogUtils] - Click element By.xpath: //option[@id='2']
+[INFO] 18-09-2023 14:29:30 [main] [LogUtils] - Click element By.xpath: //option[@id='12']
+[INFO] 18-09-2023 14:29:30 [main] [LogUtils] - Set text: Sách hay on element By.xpath: //input[@id='mota']
+[INFO] 18-09-2023 14:29:30 [main] [LogUtils] - Set text: Tờ rung on element By.xpath: //input[@id='tacgia']
+[INFO] 18-09-2023 14:29:32 [main] [LogUtils] - Set text: sach12 on element By.xpath: //input[@id='tensach']
+[INFO] 18-09-2023 14:29:32 [main] [LogUtils] - Set text: -1 on element By.xpath: //input[@id='giaban']
+[INFO] 18-09-2023 14:29:32 [main] [LogUtils] - Set text: 140 on element By.xpath: //input[@id='soluong']
+[INFO] 18-09-2023 14:29:34 [main] [LogUtils] - Click element By.xpath: //button[@id='them']
+[INFO] 18-09-2023 14:31:47 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 14:31:47 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 14:31:51 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 14:31:51 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 14:31:51 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 14:32:54 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 14:32:54 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 14:32:58 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 14:32:58 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 14:32:59 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 14:33:00 [main] [LogUtils] - Set text: huutrung on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 14:33:00 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 14:33:01 [main] [LogUtils] - Click element By.xpath: //input[@id='submit']
+[INFO] 18-09-2023 14:33:01 [main] [LogUtils] - Click element By.xpath: //a[@id='admin_sp']
+[INFO] 18-09-2023 14:33:01 [main] [LogUtils] - Click element By.xpath: //a[@id='addCatagory']
+[INFO] 18-09-2023 14:33:02 [main] [LogUtils] - Click element By.xpath: //option[@id='2']
+[INFO] 18-09-2023 14:33:02 [main] [LogUtils] - Click element By.xpath: //option[@id='12']
+[INFO] 18-09-2023 14:33:02 [main] [LogUtils] - Set text: Sách hay on element By.xpath: //input[@id='mota']
+[INFO] 18-09-2023 14:33:02 [main] [LogUtils] - Set text: Tờ rung on element By.xpath: //input[@id='tacgia']
+[INFO] 18-09-2023 14:33:02 [main] [LogUtils] - Set text: sach3 on element By.xpath: //input[@id='tensach']
+[INFO] 18-09-2023 14:33:02 [main] [LogUtils] - Set text: 137000 on element By.xpath: //input[@id='giaban']
+[INFO] 18-09-2023 14:33:02 [main] [LogUtils] - Set text: 100 on element By.xpath: //input[@id='soluong']
+[INFO] 18-09-2023 14:33:03 [main] [LogUtils] - Click element By.xpath: //button[@id='them']
+[INFO] 18-09-2023 14:33:03 [main] [LogUtils] - Click element By.xpath: //option[@id='2']
+[INFO] 18-09-2023 14:33:03 [main] [LogUtils] - Click element By.xpath: //option[@id='12']
+[INFO] 18-09-2023 14:33:03 [main] [LogUtils] - Set text: Sách hay on element By.xpath: //input[@id='mota']
+[INFO] 18-09-2023 14:33:03 [main] [LogUtils] - Set text: Tờ rung on element By.xpath: //input[@id='tacgia']
+[INFO] 18-09-2023 14:33:03 [main] [LogUtils] - Set text: sach3 on element By.xpath: //input[@id='tensach']
+[INFO] 18-09-2023 14:33:03 [main] [LogUtils] - Set text: 100000 on element By.xpath: //input[@id='giaban']
+[INFO] 18-09-2023 14:33:04 [main] [LogUtils] - Set text: -1 on element By.xpath: //input[@id='soluong']
+[INFO] 18-09-2023 14:33:04 [main] [LogUtils] - Click element By.xpath: //button[@id='them']
+[INFO] 18-09-2023 14:33:04 [main] [LogUtils] - Click element By.xpath: //option[@id='2']
+[INFO] 18-09-2023 14:33:04 [main] [LogUtils] - Click element By.xpath: //option[@id='12']
+[INFO] 18-09-2023 14:33:04 [main] [LogUtils] - Set text: Sách hay on element By.xpath: //input[@id='mota']
+[INFO] 18-09-2023 14:33:04 [main] [LogUtils] - Set text: Tờ rung on element By.xpath: //input[@id='tacgia']
+[INFO] 18-09-2023 14:33:05 [main] [LogUtils] - Set text: sach12 on element By.xpath: //input[@id='tensach']
+[INFO] 18-09-2023 14:33:05 [main] [LogUtils] - Set text: -1 on element By.xpath: //input[@id='giaban']
+[INFO] 18-09-2023 14:33:05 [main] [LogUtils] - Set text: 140 on element By.xpath: //input[@id='soluong']
+[INFO] 18-09-2023 14:33:05 [main] [LogUtils] - Click element By.xpath: //button[@id='them']
+[INFO] 18-09-2023 14:33:09 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 14:33:09 [main] [LogUtils] - Set text: huutrung on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 14:33:09 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 14:33:15 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 14:33:15 [main] [LogUtils] - Set text: user1@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 14:33:15 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 14:33:23 [main] [LogUtils] - Set text: user2@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 14:33:23 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 14:33:23 [main] [LogUtils] - Set text: user3@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 14:33:23 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 14:33:24 [main] [LogUtils] - Set text: user4@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 14:33:24 [main] [LogUtils] - Set text: 1233 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 14:33:24 [main] [LogUtils] - Set text: user5@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 14:33:24 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 14:35:15 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 14:35:15 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 14:35:19 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 14:35:19 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Anh Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 14:35:22 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 14:35:22 [main] [LogUtils] - Set text: huutrung on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 14:35:22 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 14:40:54 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 14:40:54 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Trung Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 14:40:57 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 14:40:57 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Trung Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 14:40:59 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 14:40:59 [main] [LogUtils] - Set text: huutrung on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 14:40:59 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 14:41:20 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 14:41:20 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Trung Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 14:41:24 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 14:41:24 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Trung Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 14:41:24 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 14:41:24 [main] [LogUtils] - Set text: user1@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 14:41:25 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 14:41:37 [main] [LogUtils] - Set text: user2@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 14:41:37 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 14:41:38 [main] [LogUtils] - Set text: user3@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 14:41:38 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 14:41:38 [main] [LogUtils] - Set text: user4@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 14:41:38 [main] [LogUtils] - Set text: 1233 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 14:41:39 [main] [LogUtils] - Set text: user5@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 14:41:39 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 14:42:32 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 14:42:32 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Trung Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 14:42:36 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 14:42:36 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Trung Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 14:42:36 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 14:42:36 [main] [LogUtils] - Set text: huutrung on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 14:42:37 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 14:42:50 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 14:42:50 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Trung Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 14:42:54 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 14:42:54 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Trung Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 14:42:55 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 14:42:55 [main] [LogUtils] - Set text: user1@example.com on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 14:42:55 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 14:42:56 [main] [LogUtils] - Set text: huutrung on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 14:42:56 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 14:54:04 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 14:54:04 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Trung Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 14:54:06 [main] [LogUtils] - Loaded all properties files.
+[INFO] 18-09-2023 14:54:06 [main] [LogUtils] - {BROWSER=edge, SCREENSHOT_FAIL=yes, RECORD_VIDEO=yes, AUTHOR=Trung Tester, ENV=dev, URL=http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php, SCREENSHOT_STEP=no, EXPLICIT_TIMEOUT=20, PAGE_LOAD_TIMEOUT=60, HEADLESS=true, USERNAME=huutrung, SCREENSHOT_PASS=no, product=PD0809A1, STEP_TIME=0, EXTENT_REPORT_PATH=reports/ExtentReport.html, RECORD_VIDEO_PATH=records, PASSWORD=123, category=Color, searchValue=London}
+[INFO] 18-09-2023 14:54:07 [main] [LogUtils] - Open URL: http://localhost:8080/WebsiteBanSach-main/DoAnNhom02/DangNhap.php
+[INFO] 18-09-2023 14:54:07 [main] [LogUtils] - Set text: huutrung on element By.xpath: //input[@id='email']
+[INFO] 18-09-2023 14:54:07 [main] [LogUtils] - Set text: 123 on element By.xpath: //input[@id='password']
+[INFO] 18-09-2023 14:54:07 [main] [LogUtils] - Click element By.xpath: //input[@id='submit']
+[INFO] 18-09-2023 14:54:08 [main] [LogUtils] - Click element By.xpath: //a[@id='admin_sp']
+[INFO] 18-09-2023 14:54:08 [main] [LogUtils] - Click element By.xpath: //a[@id='addCatagory']
+[INFO] 18-09-2023 14:54:08 [main] [LogUtils] - Click element By.xpath: //option[@id='2']
+[INFO] 18-09-2023 14:54:08 [main] [LogUtils] - Click element By.xpath: //option[@id='12']
+[INFO] 18-09-2023 14:54:08 [main] [LogUtils] - Set text: Sách hay on element By.xpath: //input[@id='mota']
+[INFO] 18-09-2023 14:54:09 [main] [LogUtils] - Set text: Tờ rung on element By.xpath: //input[@id='tacgia']
+[INFO] 18-09-2023 14:54:09 [main] [LogUtils] - Set text: sach3 on element By.xpath: //input[@id='tensach']
+[INFO] 18-09-2023 14:54:09 [main] [LogUtils] - Set text: 137000 on element By.xpath: //input[@id='giaban']
+[INFO] 18-09-2023 14:54:09 [main] [LogUtils] - Set text: 100 on element By.xpath: //input[@id='soluong']
+[INFO] 18-09-2023 14:54:09 [main] [LogUtils] - Click element By.xpath: //button[@id='them']
+[INFO] 18-09-2023 14:54:10 [main] [LogUtils] - Click element By.xpath: //option[@id='2']
+[INFO] 18-09-2023 14:54:10 [main] [LogUtils] - Click element By.xpath: //option[@id='12']
+[INFO] 18-09-2023 14:54:10 [main] [LogUtils] - Set text: Sách hay on element By.xpath: //input[@id='mota']
+[INFO] 18-09-2023 14:54:10 [main] [LogUtils] - Set text: Tờ rung on element By.xpath: //input[@id='tacgia']
+[INFO] 18-09-2023 14:54:10 [main] [LogUtils] - Set text: sach3 on element By.xpath: //input[@id='tensach']
+[INFO] 18-09-2023 14:54:10 [main] [LogUtils] - Set text: 100000 on element By.xpath: //input[@id='giaban']
+[INFO] 18-09-2023 14:54:10 [main] [LogUtils] - Set text: -1 on element By.xpath: //input[@id='soluong']
+[INFO] 18-09-2023 14:54:11 [main] [LogUtils] - Click element By.xpath: //button[@id='them']
+[INFO] 18-09-2023 14:54:11 [main] [LogUtils] - Click element By.xpath: //option[@id='2']
+[INFO] 18-09-2023 14:54:11 [main] [LogUtils] - Click element By.xpath: //option[@id='12']
+[INFO] 18-09-2023 14:54:11 [main] [LogUtils] - Set text: Sách hay on element By.xpath: //input[@id='mota']
+[INFO] 18-09-2023 14:54:11 [main] [LogUtils] - Set text: Tờ rung on element By.xpath: //input[@id='tacgia']
+[INFO] 18-09-2023 14:54:11 [main] [LogUtils] - Set text: sach12 on element By.xpath: //input[@id='tensach']
+[INFO] 18-09-2023 14:54:11 [main] [LogUtils] - Set text: -1 on element By.xpath: //input[@id='giaban']
+[INFO] 18-09-2023 14:54:11 [main] [LogUtils] - Set text: 140 on element By.xpath: //input[@id='soluong']
+[INFO] 18-09-2023 14:54:12 [main] [LogUtils] - Click element By.xpath: //button[@id='them']
+[INFO] 18-09-2023 14:54:12 [main] [LogUtils] - Click element By.xpath: //option[@id='2']
+[INFO] 18-09-2023 14:54:12 [main] [LogUtils] - Click element By.xpath: //option[@id='12']
+[INFO] 18-09-2023 14:54:12 [main] [LogUtils] - Set text: Sách hay on element By.xpath: //input[@id='mota']
+[INFO] 18-09-2023 14:54:12 [main] [LogUtils] - Set text: Tờ rung on element By.xpath: //input[@id='tacgia']
+[INFO] 18-09-2023 14:54:12 [main] [LogUtils] - Set text: sach19 on element By.xpath: //input[@id='tensach']
+[INFO] 18-09-2023 14:54:12 [main] [LogUtils] - Set text: 45000 on element By.xpath: //input[@id='giaban']
+[INFO] 18-09-2023 14:54:12 [main] [LogUtils] - Set text: 0 on element By.xpath: //input[@id='soluong']
+[INFO] 18-09-2023 14:54:13 [main] [LogUtils] - Click element By.xpath: //button[@id='them']

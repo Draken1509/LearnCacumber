@@ -1,0 +1,116 @@
+[INFO] 16-09-2023 11:35:23 [main] [LogUtils] - Starting Suite: Sat Sep 16 11:35:22 ICT 2023
+[INFO] 16-09-2023 11:35:30 [TestNG-PoolService-0] [LogUtils] - Open URL: https://hrm.anhtester.com/
+[INFO] 16-09-2023 11:35:30 [TestNG-PoolService-0] [LogUtils] - Set text: admin_example on element By.xpath: //input[@id='iusername']
+[INFO] 16-09-2023 11:35:31 [TestNG-PoolService-0] [LogUtils] - Set text: 123456 on element By.xpath: //input[@id='ipassword']
+[INFO] 16-09-2023 11:35:32 [TestNG-PoolService-0] [LogUtils] - Click element By.xpath: //button[@type='submit']
+[INFO] 16-09-2023 11:35:32 [TestNG-PoolService-1] [LogUtils] - Open URL: https://hrm.anhtester.com/
+[INFO] 16-09-2023 11:35:32 [TestNG-PoolService-1] [LogUtils] - Set text: project_manager on element By.xpath: //input[@id='iusername']
+[INFO] 16-09-2023 11:35:32 [TestNG-PoolService-1] [LogUtils] - Set text: 123456 on element By.xpath: //input[@id='ipassword']
+[INFO] 16-09-2023 11:35:33 [TestNG-PoolService-1] [LogUtils] - Click element By.xpath: //button[@type='submit']
+[INFO] 16-09-2023 11:35:35 [TestNG-PoolService-0] [LogUtils] - Check Element Exist: true --- By.xpath: //a[normalize-space()='Home']
+[INFO] 16-09-2023 11:35:35 [TestNG-PoolService-0] [LogUtils] - Click element By.xpath: //div[@class='page-header']//a[normalize-space()='Logout']
+[INFO] 16-09-2023 11:35:35 [TestNG-PoolService-0] [LogUtils] - testLoginFromDataProvider is pass.
+[INFO] 16-09-2023 11:35:36 [TestNG-PoolService-1] [LogUtils] - Check Element Exist: true --- By.xpath: //a[normalize-space()='Home']
+[INFO] 16-09-2023 11:35:36 [TestNG-PoolService-1] [LogUtils] - Click element By.xpath: //div[@class='page-header']//a[normalize-space()='Logout']
+[INFO] 16-09-2023 11:35:36 [TestNG-PoolService-1] [LogUtils] - testLoginFromDataProvider is pass.
+[INFO] 16-09-2023 11:35:39 [TestNG-PoolService-1] [LogUtils] - Open URL: https://hrm.anhtester.com/
+[INFO] 16-09-2023 11:35:39 [TestNG-PoolService-1] [LogUtils] - Set text: project_manager on element By.xpath: //input[@id='iusername']
+[INFO] 16-09-2023 11:35:39 [TestNG-PoolService-1] [LogUtils] - Set text: 123456 on element By.xpath: //input[@id='ipassword']
+[INFO] 16-09-2023 11:35:39 [TestNG-PoolService-0] [LogUtils] - Open URL: https://hrm.anhtester.com/
+[INFO] 16-09-2023 11:35:40 [TestNG-PoolService-0] [LogUtils] - Set text: admin_example on element By.xpath: //input[@id='iusername']
+[INFO] 16-09-2023 11:35:40 [TestNG-PoolService-0] [LogUtils] - Set text: 123456 on element By.xpath: //input[@id='ipassword']
+[INFO] 16-09-2023 11:35:40 [TestNG-PoolService-1] [LogUtils] - Click element By.xpath: //button[@type='submit']
+[INFO] 16-09-2023 11:35:41 [TestNG-PoolService-0] [LogUtils] - Click element By.xpath: //button[@type='submit']
+[INFO] 16-09-2023 11:35:44 [TestNG-PoolService-0] [LogUtils] - Check Element Exist: true --- By.xpath: //a[normalize-space()='Home']
+[INFO] 16-09-2023 11:35:44 [TestNG-PoolService-0] [LogUtils] - testLoginDataProviderFromExcelByRow is pass.
+[INFO] 16-09-2023 11:35:45 [TestNG-PoolService-1] [LogUtils] - Check Element Exist: true --- By.xpath: //a[normalize-space()='Home']
+[INFO] 16-09-2023 11:35:45 [TestNG-PoolService-1] [LogUtils] - testLoginDataProviderFromExcelByRow is pass.
+[INFO] 16-09-2023 11:35:56 [main] [LogUtils] - Starting Suite: Sat Sep 16 11:35:55 ICT 2023
+[INFO] 16-09-2023 11:36:00 [TestNG-PoolService-1] [LogUtils] - Open URL: https://hrm.anhtester.com/
+[INFO] 16-09-2023 11:36:00 [TestNG-PoolService-0] [LogUtils] - Open URL: https://hrm.anhtester.com/
+[INFO] 16-09-2023 11:36:00 [TestNG-PoolService-0] [LogUtils] - Set text: admin_example on element By.xpath: //input[@id='iusername']
+[INFO] 16-09-2023 11:36:00 [TestNG-PoolService-1] [LogUtils] - Set text: project_manager on element By.xpath: //input[@id='iusername']
+[INFO] 16-09-2023 11:36:00 [TestNG-PoolService-0] [LogUtils] - Set text: 123456 on element By.xpath: //input[@id='ipassword']
+[INFO] 16-09-2023 11:36:00 [TestNG-PoolService-1] [LogUtils] - Set text: 123456 on element By.xpath: //input[@id='ipassword']
+[INFO] 16-09-2023 11:36:01 [TestNG-PoolService-1] [LogUtils] - Click element By.xpath: //button[@type='submit']
+[INFO] 16-09-2023 11:36:01 [TestNG-PoolService-0] [LogUtils] - Click element By.xpath: //button[@type='submit']
+[INFO] 16-09-2023 11:36:04 [TestNG-PoolService-1] [LogUtils] - Check Element Exist: true --- By.xpath: //a[normalize-space()='Home']
+[INFO] 16-09-2023 11:36:04 [TestNG-PoolService-0] [LogUtils] - Check Element Exist: true --- By.xpath: //a[normalize-space()='Home']
+[INFO] 16-09-2023 11:36:04 [TestNG-PoolService-1] [LogUtils] - Click element By.xpath: //div[@class='page-header']//a[normalize-space()='Logout']
+[INFO] 16-09-2023 11:36:04 [TestNG-PoolService-1] [LogUtils] - testLoginFromDataProvider is pass.
+[INFO] 16-09-2023 11:36:04 [TestNG-PoolService-0] [LogUtils] - Click element By.xpath: //div[@class='page-header']//a[normalize-space()='Logout']
+[INFO] 16-09-2023 11:36:04 [TestNG-PoolService-0] [LogUtils] - testLoginFromDataProvider is pass.
+[INFO] 16-09-2023 11:36:08 [TestNG-PoolService-0] [LogUtils] - Open URL: https://hrm.anhtester.com/
+[INFO] 16-09-2023 11:36:08 [TestNG-PoolService-0] [LogUtils] - Set text: admin_example on element By.xpath: //input[@id='iusername']
+[INFO] 16-09-2023 11:36:08 [TestNG-PoolService-0] [LogUtils] - Set text: 123456 on element By.xpath: //input[@id='ipassword']
+[INFO] 16-09-2023 11:36:08 [TestNG-PoolService-1] [LogUtils] - Open URL: https://hrm.anhtester.com/
+[INFO] 16-09-2023 11:36:08 [TestNG-PoolService-1] [LogUtils] - Set text: project_manager on element By.xpath: //input[@id='iusername']
+[INFO] 16-09-2023 11:36:08 [TestNG-PoolService-1] [LogUtils] - Set text: 123456 on element By.xpath: //input[@id='ipassword']
+[INFO] 16-09-2023 11:36:09 [TestNG-PoolService-0] [LogUtils] - Click element By.xpath: //button[@type='submit']
+[INFO] 16-09-2023 11:36:09 [TestNG-PoolService-1] [LogUtils] - Click element By.xpath: //button[@type='submit']
+[INFO] 16-09-2023 11:36:12 [TestNG-PoolService-0] [LogUtils] - Check Element Exist: true --- By.xpath: //a[normalize-space()='Home']
+[INFO] 16-09-2023 11:36:12 [TestNG-PoolService-0] [LogUtils] - testLoginDataProviderFromExcelByRow is pass.
+[INFO] 16-09-2023 11:36:12 [TestNG-PoolService-1] [LogUtils] - Check Element Exist: true --- By.xpath: //a[normalize-space()='Home']
+[INFO] 16-09-2023 11:36:12 [TestNG-PoolService-1] [LogUtils] - testLoginDataProviderFromExcelByRow is pass.
+[INFO] 16-09-2023 11:36:14 [main] [LogUtils] - Open URL: https://hrm.anhtester.com/
+[INFO] 16-09-2023 11:36:14 [main] [LogUtils] - Set text: admin_example_123 on element By.xpath: //input[@id='iusername']
+[INFO] 16-09-2023 11:36:14 [main] [LogUtils] - Set text: 123456 on element By.xpath: //input[@id='ipassword']
+[INFO] 16-09-2023 11:36:15 [main] [LogUtils] - Click element By.xpath: //button[@type='submit']
+[INFO] 16-09-2023 11:36:16 [main] [LogUtils] - Check Element Exist: true --- By.xpath: //div[@class='toast-message']
+[INFO] 16-09-2023 11:36:16 [main] [LogUtils] - Get text: Invalid Login Credentials.
+[INFO] 16-09-2023 11:36:16 [main] [LogUtils] - Verify equals: Invalid Login Credentials. and Invalid Login Credentials.
+[INFO] 16-09-2023 11:36:16 [main] [LogUtils] - testLoginWithUsernameInValid is pass.
+[INFO] 16-09-2023 11:36:18 [main] [LogUtils] - Open URL: https://hrm.anhtester.com/
+[INFO] 16-09-2023 11:36:18 [main] [LogUtils] - Set text: admin_example on element By.xpath: //input[@id='iusername']
+[INFO] 16-09-2023 11:36:18 [main] [LogUtils] - Set text: 123456789 on element By.xpath: //input[@id='ipassword']
+[INFO] 16-09-2023 11:36:19 [main] [LogUtils] - Click element By.xpath: //button[@type='submit']
+[INFO] 16-09-2023 11:36:20 [main] [LogUtils] - Check Element Exist: true --- By.xpath: //div[@class='toast-message']
+[INFO] 16-09-2023 11:36:20 [main] [LogUtils] - Get text: Max no. of attempts. Try again after a minute.
+[INFO] 16-09-2023 11:36:20 [main] [LogUtils] - Verify equals: Max no. of attempts. Try again after a minute. and Invalid Login Credentials.
+[ERROR] 16-09-2023 11:36:20 [main] [LogUtils] - java.lang.AssertionError: Fail. Not match. 'Max no. of attempts. Try again after a minute.' != 'Invalid Login Credentials.' expected [Invalid Login Credentials.] but found [Max no. of attempts. Try again after a minute.]
+[ERROR] 16-09-2023 11:36:20 [main] [LogUtils] - testLoginWithPasswordInValid is fail.
+[INFO] 16-09-2023 11:36:21 [main] [LogUtils] - Finish Suite: Sat Sep 16 11:36:21 ICT 2023
+[INFO] 16-09-2023 11:37:08 [main] [LogUtils] - Starting Suite: Sat Sep 16 11:37:08 ICT 2023
+[INFO] 16-09-2023 11:37:12 [TestNG-PoolService-0] [LogUtils] - Open URL: https://hrm.anhtester.com/
+[INFO] 16-09-2023 11:37:12 [TestNG-PoolService-0] [LogUtils] - Set text: admin_example on element By.xpath: //input[@id='iusername']
+[INFO] 16-09-2023 11:37:12 [TestNG-PoolService-1] [LogUtils] - Open URL: https://hrm.anhtester.com/
+[INFO] 16-09-2023 11:37:12 [TestNG-PoolService-0] [LogUtils] - Set text: 123456 on element By.xpath: //input[@id='ipassword']
+[INFO] 16-09-2023 11:37:12 [TestNG-PoolService-1] [LogUtils] - Set text: project_manager on element By.xpath: //input[@id='iusername']
+[INFO] 16-09-2023 11:37:12 [TestNG-PoolService-1] [LogUtils] - Set text: 123456 on element By.xpath: //input[@id='ipassword']
+[INFO] 16-09-2023 11:37:13 [TestNG-PoolService-0] [LogUtils] - Click element By.xpath: //button[@type='submit']
+[INFO] 16-09-2023 11:37:13 [TestNG-PoolService-1] [LogUtils] - Click element By.xpath: //button[@type='submit']
+[INFO] 16-09-2023 11:37:16 [TestNG-PoolService-0] [LogUtils] - Check Element Exist: true --- By.xpath: //a[normalize-space()='Home']
+[INFO] 16-09-2023 11:37:16 [TestNG-PoolService-0] [LogUtils] - Click element By.xpath: //div[@class='page-header']//a[normalize-space()='Logout']
+[INFO] 16-09-2023 11:37:16 [TestNG-PoolService-0] [LogUtils] - testLoginFromDataProvider is pass.
+[INFO] 16-09-2023 11:37:17 [TestNG-PoolService-1] [LogUtils] - Check Element Exist: true --- By.xpath: //a[normalize-space()='Home']
+[INFO] 16-09-2023 11:37:17 [TestNG-PoolService-1] [LogUtils] - Click element By.xpath: //div[@class='page-header']//a[normalize-space()='Logout']
+[INFO] 16-09-2023 11:37:17 [TestNG-PoolService-1] [LogUtils] - testLoginFromDataProvider is pass.
+[INFO] 16-09-2023 11:37:20 [TestNG-PoolService-0] [LogUtils] - Open URL: https://hrm.anhtester.com/
+[INFO] 16-09-2023 11:37:20 [TestNG-PoolService-1] [LogUtils] - Open URL: https://hrm.anhtester.com/
+[INFO] 16-09-2023 11:37:20 [TestNG-PoolService-0] [LogUtils] - Set text: admin_example on element By.xpath: //input[@id='iusername']
+[INFO] 16-09-2023 11:37:20 [TestNG-PoolService-1] [LogUtils] - Set text: project_manager on element By.xpath: //input[@id='iusername']
+[INFO] 16-09-2023 11:37:20 [TestNG-PoolService-0] [LogUtils] - Set text: 123456 on element By.xpath: //input[@id='ipassword']
+[INFO] 16-09-2023 11:37:20 [TestNG-PoolService-1] [LogUtils] - Set text: 123456 on element By.xpath: //input[@id='ipassword']
+[INFO] 16-09-2023 11:37:21 [TestNG-PoolService-0] [LogUtils] - Click element By.xpath: //button[@type='submit']
+[INFO] 16-09-2023 11:37:21 [TestNG-PoolService-1] [LogUtils] - Click element By.xpath: //button[@type='submit']
+[INFO] 16-09-2023 11:37:24 [TestNG-PoolService-1] [LogUtils] - Check Element Exist: true --- By.xpath: //a[normalize-space()='Home']
+[INFO] 16-09-2023 11:37:24 [TestNG-PoolService-1] [LogUtils] - testLoginDataProviderFromExcelByRow is pass.
+[INFO] 16-09-2023 11:37:24 [TestNG-PoolService-0] [LogUtils] - Check Element Exist: true --- By.xpath: //a[normalize-space()='Home']
+[INFO] 16-09-2023 11:37:24 [TestNG-PoolService-0] [LogUtils] - testLoginDataProviderFromExcelByRow is pass.
+[INFO] 16-09-2023 11:37:26 [main] [LogUtils] - Open URL: https://hrm.anhtester.com/
+[INFO] 16-09-2023 11:37:26 [main] [LogUtils] - Set text: admin_example_123 on element By.xpath: //input[@id='iusername']
+[INFO] 16-09-2023 11:37:27 [main] [LogUtils] - Set text: 123456 on element By.xpath: //input[@id='ipassword']
+[INFO] 16-09-2023 11:37:28 [main] [LogUtils] - Click element By.xpath: //button[@type='submit']
+[INFO] 16-09-2023 11:37:28 [main] [LogUtils] - Check Element Exist: true --- By.xpath: //div[@class='toast-message']
+[INFO] 16-09-2023 11:37:28 [main] [LogUtils] - Get text: Invalid Login Credentials.
+[INFO] 16-09-2023 11:37:28 [main] [LogUtils] - Verify equals: Invalid Login Credentials. and Invalid Login Credentials.
+[INFO] 16-09-2023 11:37:28 [main] [LogUtils] - testLoginWithUsernameInValid is pass.
+[INFO] 16-09-2023 11:37:30 [main] [LogUtils] - Open URL: https://hrm.anhtester.com/
+[INFO] 16-09-2023 11:37:30 [main] [LogUtils] - Set text: admin_example on element By.xpath: //input[@id='iusername']
+[INFO] 16-09-2023 11:37:31 [main] [LogUtils] - Set text: 123456789 on element By.xpath: //input[@id='ipassword']
+[INFO] 16-09-2023 11:37:32 [main] [LogUtils] - Click element By.xpath: //button[@type='submit']
+[INFO] 16-09-2023 11:37:32 [main] [LogUtils] - Check Element Exist: true --- By.xpath: //div[@class='toast-message']
+[INFO] 16-09-2023 11:37:32 [main] [LogUtils] - Get text: Invalid Login Credentials.
+[INFO] 16-09-2023 11:37:32 [main] [LogUtils] - Verify equals: Invalid Login Credentials. and Invalid Login Credentials.
+[INFO] 16-09-2023 11:37:32 [main] [LogUtils] - testLoginWithPasswordInValid is pass.
+[INFO] 16-09-2023 11:37:32 [main] [LogUtils] - Finish Suite: Sat Sep 16 11:37:32 ICT 2023
