@@ -2,7 +2,9 @@
 
 
 <h1> Chức năng login</h1>
+
  ![image](https://github.com/user-attachments/assets/0109743c-9d73-4bc8-b093-049bc45a5a8e)
 
 <h1> Chức năng thêm sản phẩm</h1>
  
+![image](https://github.com/user-attachments/assets/3103a781-16ba-448d-8091-95b08b8152b8)
